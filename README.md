@@ -9,3 +9,4 @@ The implementation of the library is funded by Project Catalyst.
 - Catalyst page: https://milestones.projectcatalyst.io/projects/1200028
 - Codebase: https://github.com/Anastasia-Labs/coq-uplc
 - Completion video for milestone 1: https://www.youtube.com/watch?v=srEPiyU8jQI
+- Completion video for milestone 2: https://www.youtube.com/watch?v=o1RM0EglfVA
